@@ -12,7 +12,7 @@ This GitLab repository provides a simple bash script for setting up a Minecraft 
 1. Clone this repository or download the script directly.
 
 ```bash
-git clone https://code.wonic.de/ashio/minecraft-installer.git
+git clone https://github.com/crimewaffle/minecraft-installer.git
 cd minecraft-installer
 ```
 
@@ -61,7 +61,7 @@ sudo systemctl enable minecraft
 
 ## Acknowledgments
 
-Thank you for using this script! Feel free to contribute to the GitLab repository or report any issues.
+Thank you for using this script! Feel free to contribute to the repository or report any issues.
 
 If you have any questions or need assistance, please open an issue.
 
